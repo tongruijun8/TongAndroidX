@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- TSwitchModule 参数 -->
+    <!-- 外边线的颜色 -->
+    <color name="tswitch_outside">#a1a1a1</color>
+    <!-- 文字颜色：选中 -->
+    <color name="tswitch_textcolor_select">#ffffff</color>
+    <!-- 文字颜色：未选中 -->
+    <color name="tswitch_textcolor_select_no">#333333</color>
+    <!-- 背景色：选中 -->
+    <color name="tswitch_bg_select">#5b9ac5</color>
+    <!-- 背景色：未选中 -->
+    <color name="tswitch_bg_select_no">#DFDFDF</color>
+
+    
+    
+</resources>

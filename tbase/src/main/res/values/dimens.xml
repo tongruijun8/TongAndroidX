@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- TSwitchModule 参数 -->
+    <dimen name="tswitch_w">180dp</dimen>
+    <dimen name="tswitch_h">36dp</dimen>
+    <dimen name="tswitch_padding">2dp</dimen>
+    <dimen name="tswitch_tab_space">1dp</dimen>
+    <!--外边线的宽度-->
+    <dimen name="tswitch_outside_w">1dp</dimen>
+    <!-- 圆角 -->
+    <dimen name="tswitch_r">5dp</dimen>
+
+
+    <!-- activity_nav_bottom.xml -->
+    <dimen name="nav_bottom_height">60dp</dimen>
+
+
+    <!-- layout_recyclerview.xml -->
+    <dimen name="item_recyclerview_space_v" >2dp</dimen>
+    <dimen name="item_recyclerview_space_h" >5dp</dimen>
+
+
+</resources>
